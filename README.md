@@ -1,4 +1,5 @@
 # EncouragementBot
+Leave as open source
 print("Title of program: Encouragement bot")
 print()
 while True:
